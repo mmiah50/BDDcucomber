@@ -12,9 +12,9 @@ public class login extends commonApi{
         SignintoFB.Email("miah_monir@yahoo.com");
         SignintoFB.pwd("bsjhbsjkgfjsGJDAKBSA");
         SignintoFB.play();
-        Thread.sleep(3000);
-        SignintoFB.Nav();
-        SignintoFB.lout();
+//        Thread.sleep(3000);
+//        SignintoFB.Nav();
+//        SignintoFB.lout();
 
 
 
